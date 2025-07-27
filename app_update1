@@ -1,0 +1,36 @@
+{
+  "update_version": "1.17",
+  "com.jpro.vpn": {
+    "latest_version_code": 16,
+    "apk_url": "https://www.play-store-apps.store/2024/09/jez-proxy-vpn.html",
+    "version_rules": {
+      "15": {
+        "force_update": false,
+        "stop_config_updates": true,
+        "clear_app_data": false,
+        "update_message": "You're fine on version 13",
+        "apk_url": "https://www.play-store-apps.store/2024/09/jez-proxy-vpn.html"
+      },
+      "16": {
+        "force_update": false,
+        "stop_config_updates": false,
+        "clear_app_data": false,
+        "update_message": "This is version with for udpate today version rules www.google.com",
+        "apk_url": "https://www.play-store-apps.store/2024/09/jez-proxy-vpn.html"
+      }
+    }
+  },
+  "noob.segou.vpn": {
+    "latest_version_code": 5,
+    "apk_url": "https://www.play-store-apps.store/2024/11/segou-vpn-pro-fast-and-secure.html",
+    "version_rules": {
+      "4": {
+        "force_update": true,
+        "stop_config_updates": true,
+        "clear_app_data": true,
+        "update_message": "Update required",
+        "apk_url": "https://www.play-store-apps.store/2024/11/segou-vpn-pro-fast-and-secure.html"
+      }
+    }
+  }
+}
